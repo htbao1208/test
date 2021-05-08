@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hidebook</string>
+    <string name="err_name">Please input valid name.</string>
+</resources>
